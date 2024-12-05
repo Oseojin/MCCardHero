@@ -1,0 +1,4 @@
+name: CardHero
+version: '1.0-SNAPSHOT'
+main: org.osj.cardHero.CardHero
+api-version: '1.21'
